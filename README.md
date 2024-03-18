@@ -1,5 +1,6 @@
-	          # Olá, Eu sou Ricson Ramos
+	        Olá, Eu sou Ricson Ramos
 Entusiasta por ciência e análise de dados no mundo digital
+
 🔭 Atualmente estou estudando análise e visualização de dados pela faculdade Anhanguera
 
 🌱 Atualmente estou aprendendo Python e Machine Learning
