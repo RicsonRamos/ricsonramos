@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, SQL, Google Data Studio, Power BI, Excel and Python**
 
-- 📫 How to reach me **ricsonramos@hotmail.com**
+- 📫 How to reach me **ricsonramos@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
