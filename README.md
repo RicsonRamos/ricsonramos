@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricson Ramos</h1>
 <h3 align="center">Enthusiast for science and data analysis in the digital world</h3>
 
-
-
-
-<h1 align="center">Hi 👋, I'm Ricson Ramos</h1>
-<h3 align="center">Enthusiast for science and data analysis in the digital world</h3>
-
 - 🌱 I’m currently learning **Machine Learning, SQL, Google Data Studio, Power BI, Excel and Python**
 
 - 📫 How to reach me **ricsonramos@outlook.com**
