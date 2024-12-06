@@ -13,14 +13,18 @@
 ---
 
 ### 🔗 Connect with Me  
-<div style="text-align: center;">
-    <a href="mailto:seuemail@dominio.com">
-        <img src="https://img.shields.io/badge/Email-2C2C2C?style=for-the-badge&logo=gmail&logoColor=white&color=2C2C2C" alt="Email">
-    </a>
-    <a href="https://www.linkedin.com/in/seulinkedin">
-        <img src="https://img.shields.io/badge/LinkedIn-2C2C2C?style=for-the-badge&logo=linkedin&logoColor=white&color=2C2C2C" alt="LinkedIn">
-    </a>
-</div>
+
+
+<p align="center">
+  <a href="mailto:ricsonramos@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=2C2C2C" alt="Email - Ricson Ramos" />
+  </a>
+  <a href="https://linkedin.com/in/ricsonramos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=2C2C2C" alt="LinkedIn - Ricson Ramos" />
+  </a>
+</p>
+
+
 ---
 
 ### 📊 My GitHub Stats  
