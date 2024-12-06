@@ -22,7 +22,8 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/RicsonRamos/ricsonramos/raw/output/github-contribution-grid-snake.svg)
+![Snake animation (Light)](https://github.com/RicsonRamos/ricsonramos/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation (Dark)](https://github.com/RicsonRamos/ricsonramos/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ###
 
