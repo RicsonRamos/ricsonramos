@@ -22,9 +22,8 @@
 
 <br clear="both">
 
-![Snake Animation](https://github.com/ricsonramos/ricsonramos/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ricsonramos/ricsonramos/blob/output/github-contribution-grid-snake.svg)
 
-[readme](https://github-readme-stats.vercel.app/api/pin/?username=ricsonramos&repo=ricsonramos&thene-react)l(https://github.com/ricsonramos/ricsonramos)
 ###
 
 
