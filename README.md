@@ -10,8 +10,6 @@
 ### 🌟 About Me  
 - 🎓 Passionate about **Machine Learning**, **Data Analysis**, and the infinite possibilities of the digital universe.  
 - 🌱 Currently expanding my knowledge in **Machine Learning, SQL, Google Data Studio, Power BI, Excel, and Python**.  
-- 📬 Feel free to reach me: [ricsonramos@outlook.com](mailto:ricsonramos@outlook.com).  
-
 ---
 
 ### 🔗 Connect with Me  
