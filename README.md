@@ -22,9 +22,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ricsonramos/ricsonramos/output/snake.svg" alt="Snake animation" />
+![Snake Animation](https://github.com/ricsonramos/ricsonramos/blob/output/github-contribution-grid-snake.gif)
 
+[readme](https://github-readme-stats.vercel.app/api/pin/?username=ricsonramos&repo=ricsonramos&thene-react)l(https://github.com/ricsonramos/ricsonramos)
 ###
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
