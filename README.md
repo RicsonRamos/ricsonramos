@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/ricsonramos/ricsonramos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RicsonRamos/ricsonramos/raw/output/github-contribution-grid-snake.svg)
 
 ###
 
