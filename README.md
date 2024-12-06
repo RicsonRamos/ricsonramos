@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ricson Ramos</h1>
 <h3 align="center">Enthusiast for science and data analysis in the digital world</h3>
 
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+
 - 🌱 I’m currently learning **Machine Learning, SQL, Google Data Studio, Power BI, Excel and Python**
 - 📫 How to reach me: [ricsonramos@outlook.com](mailto:ricsonramos@outlook.com)
 
@@ -26,9 +31,8 @@
 
 ###
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RicsonRamos&theme=dracula)
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RicsonRamos&theme=dracula)
-[![GitHub Contribution 3D Chart](https://github.com/RicsonRamos/github-contribution-chart/blob/main/contributions.gif)](https://skyline.github.com/)
 
 
 
