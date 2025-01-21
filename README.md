@@ -12,7 +12,7 @@
 - 🌱 Currently expanding my knowledge in **Machine Learning, SQL, Google Data Studio, Power BI, Excel, and Python**.  
 ---
 
-### 🔗 Connect with Me  
+### 🚀 Links to Explore
 
 <p align="center">
   <a href="mailto:ricsonramos@outlook.com" target="_blank">
