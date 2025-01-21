@@ -24,6 +24,9 @@
   <a href="https://kaggle.com/ricsonramos" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=2C2C2C" alt="Kaggle - Ricson Ramos" />
   </a>
+  <a href="https://www.hackerrank.com/profile/ricsonramos05" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&color=2C2C2C" alt="HackerRank - Ricson Ramos" />
+  </a>
 </p>
 
 ---
