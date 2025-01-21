@@ -14,7 +14,6 @@
 
 ### 🔗 Connect with Me  
 
-
 <p align="center">
   <a href="mailto:ricsonramos@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=2C2C2C" alt="Email - Ricson Ramos" />
@@ -22,8 +21,10 @@
   <a href="https://linkedin.com/in/ricsonramos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=2C2C2C" alt="LinkedIn - Ricson Ramos" />
   </a>
+  <a href="https://kaggle.com/ricsonramos" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=2C2C2C" alt="Kaggle - Ricson Ramos" />
+  </a>
 </p>
-
 
 ---
 
