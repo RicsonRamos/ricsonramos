@@ -40,7 +40,7 @@ Analytical specialist with 9+ years in **Intelligence and Operational Risk**. I 
 
 ### ⚙️ Advanced Engineering Metrics
 <p align="center">
-  <img src="https://github.com/RicsonRamos/RicsonRamos/blob/output/github-metrics.svg" alt="Advanced Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/RicsonRamos/RicsonRamos/main/github-metrics.svg" alt="Advanced Metrics" width="100%">
 </p>
 
 ---
@@ -48,8 +48,8 @@ Analytical specialist with 9+ years in **Intelligence and Operational Risk**. I 
 ### 🐍 Activity Insight
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RicsonRamos/RicsonRamos/raw/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake animation" src="https://github.com/RicsonRamos/RicsonRamos/raw/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicsonRamos/RicsonRamos/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/RicsonRamos/RicsonRamos/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
