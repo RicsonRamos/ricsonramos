@@ -28,23 +28,30 @@ Analytical specialist with 9+ years in **Intelligence and Operational Risk**. I 
 ### 🛠️ Technical Stack
 * **Data Science:** `Python (Pandas, Scikit-Learn)`, `SQL (PostgreSQL)`, `EDA`, `Statistical Modeling`.
 * **Intelligence & BI:** `Power BI`, `Pattern Recognition`, `Fraud Detection`.
-* **Engineering:** `Git`, `Process Automation`, `Software Development Fundamentals`.
+* **Engineering:** `Git`, `Process Automation`, `GitHub Actions (CI/CD)`.
 
 ---
 
 ### 📊 Performance & Impact
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricsonramos&show_icons=true&theme=dracula&hide_border=true" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricsonramos&layout=compact&theme=dracula&hide_border=true" height="155" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RicsonRamos&show_icons=true&theme=dracula&hide_border=true" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicsonRamos&layout=compact&theme=dracula&hide_border=true" height="155" alt="Top Languages" />
 </div>
+
+### ⚙️ Advanced Engineering Metrics
+<p align="center">
+  <img src="https://github.com/RicsonRamos/RicsonRamos/blob/output/github-metrics.svg" alt="Advanced Metrics" width="100%">
+</p>
 
 ---
 
 ### 🐍 Activity Insight
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RicsonRamos/RicsonRamos/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RicsonRamos/RicsonRamos/raw/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Snake animation" src="https://github.com/RicsonRamos/RicsonRamos/raw/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
 
 ---
 <p align="center">
