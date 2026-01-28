@@ -32,15 +32,9 @@ Analytical specialist with 9+ years in **Intelligence and Operational Risk**. I 
 
 ---
 
-### 📊 Performance & Impact
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RicsonRamos&show_icons=true&theme=dracula&hide_border=true" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicsonRamos&layout=compact&theme=dracula&hide_border=true" height="155" alt="Top Languages" />
-</div>
-
 ### ⚙️ Advanced Engineering Metrics
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RicsonRamos/RicsonRamos/main/github-metrics.svg" alt="Advanced Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/RicsonRamos/RicsonRamos/output/github-metrics.svg" alt="Advanced Metrics" width="100%">
 </p>
 
 ---
