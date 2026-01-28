@@ -48,8 +48,8 @@ With nearly a decade of experience in Public Safety as a **Police Officer and Cr
 ### 🐍 Workflow Activity
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RicsonRamos/ricsonramos/raw/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake animation" src="https://github.com/RicsonRamos/ricsonramos/raw/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RicsonRamos/RicsonRamos/raw/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Snake animation" src="https://github.com/RicsonRamos/RicsonRamos/raw/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
