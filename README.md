@@ -42,11 +42,9 @@ Analytical specialist with 9+ years in **Intelligence and Operational Risk**. I 
 
 ### 🐍 Activity Insight
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RicsonRamos/RicsonRamos/raw/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake animation" src="https://github.com/RicsonRamos/RicsonRamos/raw/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/RicsonRamos/RicsonRamos/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
+
 
 ---
 <p align="center">
