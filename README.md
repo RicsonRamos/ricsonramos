@@ -1,6 +1,6 @@
 <h1 align="center">Ricson Ramos</h1>
 <p align="center">
-  <strong>​Data Scientist | Intelligence & Operational Risk | Pattern Recognition | PythonL</strong>
+  <strong>Data Scientist | Intelligence & Operational Risk | Pattern Recognition</strong>
 </p>
 
 <p align="center">
@@ -20,32 +20,27 @@
 
 ---
 
-### 🔍 Profile Summary
-
-With nearly a decade of experience in Public Safety as a **Police Officer and Criminal Analyst**, I specialize in pattern recognition and intelligence-driven decision-making. I am currently pivoting this expertise into **Data Science**, merging the analytical rigor of criminal investigation with modern technology to solve complex business challenges.
-
-* **Main Focus:** Exploratory Data Analysis (EDA), Statistical Modeling, and Predictive Analytics.
-* **Core Strengths:** Discipline, high-stakes problem solving, and investigative mindset.
+### 🔍 Executive Summary
+Analytical specialist with 9+ years in **Intelligence and Operational Risk**. I transform complex datasets into strategic intelligence using an investigative mindset and modern technology. Focused on delivering data-driven solutions that mitigate risks and optimize decision-making processes.
 
 ---
 
 ### 🛠️ Technical Stack
-* **Languages:** `Python (Pandas, NumPy, Scikit-Learn)`, `SQL (PostgreSQL)`.
-* **Data Visualization:** `Power BI`, `Seaborn`, `Matplotlib`, `Excel (Advanced)`.
-* **Tools & Environment:** `Git/GitHub`, `Jupyter Notebooks`, `VS Code`, `Conda`.
-
+* **Data Science:** `Python (Pandas, Scikit-Learn)`, `SQL (PostgreSQL)`, `EDA`, `Statistical Modeling`.
+* **Intelligence & BI:** `Power BI`, `Pattern Recognition`, `Fraud Detection`.
+* **Engineering:** `Git`, `Process Automation`, `Software Development Fundamentals`.
 
 ---
 
-### 📊 Performance Metrics
+### 📊 Performance & Impact
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricsonramos&show_icons=true&theme=dracula&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricsonramos&layout=compact&theme=dracula&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ricsonramos&show_icons=true&theme=dracula&hide_border=true" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricsonramos&layout=compact&theme=dracula&hide_border=true" height="155" alt="Top Languages" />
 </div>
 
 ---
 
-### 🐍 Workflow Activity
+### 🐍 Activity Insight
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RicsonRamos/RicsonRamos/raw/output/github-contribution-grid-snake-dark.svg">
