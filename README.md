@@ -20,8 +20,11 @@
 
 ---
 
-### 🔍 Executive Summary
-Analytical specialist with 9+ years in **Intelligence and Operational Risk**. I transform complex datasets into strategic intelligence using an investigative mindset and modern technology. Focused on delivering data-driven solutions that mitigate risks and optimize decision-making processes.
+### 🛠️ Technical Stack
+
+* **Data Science & Analytics:** Specialist in `Python` for predictive modeling and statistical analysis. Proficiency in `Pandas`, `NumPy`, `Scikit-Learn`, and `SQL (PostgreSQL)` for large-scale data manipulation.
+* **Intelligence & Risk:** Expert in `Pattern Recognition` and `Fraud Detection`. Development of strategic `Power BI` dashboards focused on operational risk mitigation and security intelligence.
+* **Software Engineering (CI/CD):** Workflow automation and data governance using `GitHub Actions`, version control with `Git`, and implementation of process automation pipelines.
 
 ---
 
