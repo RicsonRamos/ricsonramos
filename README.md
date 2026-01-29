@@ -30,11 +30,9 @@ Analytical specialist with 9+ years in **Intelligence and Operational Risk**. I 
 * **Intelligence & BI:** `Power BI`, `Pattern Recognition`, `Fraud Detection`.
 * **Engineering:** `Git`, `Process Automation`, `GitHub Actions (CI/CD)`.
 
----
-
 ### ⚙️ Advanced Engineering Metrics
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RicsonRamos/RicsonRamos/output/github-metrics.svg" alt="Advanced Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/RicsonRamos/RicsonRamos/main/github-metrics.svg" alt="Advanced Metrics" width="100%">
 </p>
 
 ---
